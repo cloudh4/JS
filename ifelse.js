@@ -10,7 +10,6 @@ function ifelse() {
 }
 
 function a () {
-  var i = 1;
   for (var i = 1; i < 5; i++) {
     console.log((i+1)*2)
   }
